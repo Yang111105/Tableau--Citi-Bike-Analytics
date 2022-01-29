@@ -4,8 +4,8 @@ This analysis uses Citi Bike 2021 data to create Tableau visualizations for user
 
 ## Analysis
 ### Seasonality Analysis by user types:
-Overall majority trips were made by members, the trip counts and mileage peak during summer, weekends and traffic rush hours, however, the usage pattern showed some difference between member vs. casual users. 
-* Usage by month: both type of users rides more as weather gets warmer and slows down when weather gets colder with lowest usage point Feb. Casual users’ rides out pass members during summer (Jul/Aug/Sep).
+Overall majority trips were made by members, the trip counts and mileage peak during summer, weekends and traffic rush hours. However, the usage pattern showed some difference between member vs. casual users. 
+* Usage by month: both type of users rided more as weather gets warmer and slows down when weather gets colder with lowest usage point Feb. Casual users’ rides out pass members during summer (Jul/Aug/Sep).
 * Usage by weekdays: member users had more consistent trips over the weekdays (and higher than casual users) and lower usage over the weekends, while casual users were the opposite, they made more trips over the weekends.
 * Usage by hours: higher rides count and miles were observed during rush hours for both type of users. However, casual users’ trips tend to start earlier and end later than member users.
 The reason behind above differences is the purpose of renting bikes: casual users tend to ride during spare time while members have more routine needs- a lot of them ride to work on daily basis.
